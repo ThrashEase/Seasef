@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ThrashEase/Seas/main/Sease",true))();
